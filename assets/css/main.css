@@ -1505,6 +1505,7 @@ section {
 .registro .php-email-form input[type=text],
 .registro .php-email-form input[type=email],
 .registro .php-email-form input[type=password],
+.registro .php-email-form select,
 .registro .php-email-form textarea {
   padding: 5px 15px;
   background: #000000;
@@ -1519,6 +1520,7 @@ section {
 .registro .php-email-form input[type=text]:focus,
 .registro .php-email-form input[type=email]:focus,
 .registro .php-email-form input[type=password]:focus,
+.registro .php-email-form select:focus,
 .registro .php-email-form textarea:focus {
   border-color: #f39222;
   background: #000000;
